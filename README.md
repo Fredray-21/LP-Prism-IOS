@@ -1,4 +1,4 @@
-# TP IOS - Lience Pro Prism
+# TP IOS - Licence Pro Prism
 
 Ce dépôt contient tous mes TP réalisés dans le cadre de ma licence professionnelle Prism en développement iOS.
 
