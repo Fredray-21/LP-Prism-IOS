@@ -29,7 +29,7 @@ class ViewController: UIViewController {
             let destinationVC = segue.destination as! AffichageViewController
             
             // Transfert de données
-            destinationVC.tableauAffichage = tableauValeur
+            destinationVC.tableauAffichage = tableauValeur.sorted()
         }
     }
     
